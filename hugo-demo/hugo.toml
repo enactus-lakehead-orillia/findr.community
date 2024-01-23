@@ -42,16 +42,9 @@ paginate     = 10
   [languages.en.params]
     subtitle  = "A simple theme for Hugo"
 
-    [languages.en.params.logo]
-      logoText = "hello friend ng"
-      logoHomeLink = "/"
     # or
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
-  # And you can even create generic menu
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+
