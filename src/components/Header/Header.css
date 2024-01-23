@@ -1,0 +1,35 @@
+
+.site-header {
+  text-align: center;
+  display: block;
+  background-color: bisque;
+  padding: 5px;
+}
+
+.navigation-menu ul {
+  list-style: none;
+  padding: 0;
+  display: inline-flex; 
+  justify-content: center;
+}
+
+.navigation-menu li {
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.logo {
+  padding-top: 2px;
+}
+
+.logo img {
+  width: 100px;
+}
+
+
+/* Clearfix */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
