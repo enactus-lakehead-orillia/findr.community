@@ -1,15 +1,15 @@
 body {
   margin: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
 body {
-  background-color: #FAF9F6;
+  background-color: #faf9f6;
 }
