@@ -38,10 +38,11 @@ function App() {
           <h2>Privacy</h2>
           <p>
             This is a social app, so Findr will need to collect some personal
-            and device data to function. These include your name, email,
-            location, and geolocation data. We will never sell your data to
-            third parties, and we will never use your data for any purpose other
-            than to provide the services offered by Findr.
+            and device data to function (when the app is fully released). These
+            include your name, email, location, any images you choose to upload,
+            and geolocation data. We will never sell your data to third parties,
+            and we will never use your data for any purpose other than to
+            provide the services offered by Findr.
           </p>
         </section>
         <footer>
