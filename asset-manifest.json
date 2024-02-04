@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d320926a.css",
-    "main.js": "/static/js/main.47d8fd3d.js",
-    "static/js/651.b7dab943.chunk.js": "/static/js/651.b7dab943.chunk.js",
-    "static/media/findr-logo.png": "/static/media/findr-logo.c8e67e158951c3e51a6e.png",
-    "index.html": "/index.html",
-    "main.d320926a.css.map": "/static/css/main.d320926a.css.map",
-    "main.47d8fd3d.js.map": "/static/js/main.47d8fd3d.js.map",
-    "651.b7dab943.chunk.js.map": "/static/js/651.b7dab943.chunk.js.map"
+    "main.css": "/findr.community/static/css/main.d320926a.css",
+    "main.js": "/findr.community/static/js/main.923427a1.js",
+    "static/js/651.b7dab943.chunk.js": "/findr.community/static/js/651.b7dab943.chunk.js",
+    "static/media/findr-logo.png": "/findr.community/static/media/findr-logo.c8e67e158951c3e51a6e.png",
+    "index.html": "/findr.community/index.html",
+    "main.d320926a.css.map": "/findr.community/static/css/main.d320926a.css.map",
+    "main.923427a1.js.map": "/findr.community/static/js/main.923427a1.js.map",
+    "651.b7dab943.chunk.js.map": "/findr.community/static/js/651.b7dab943.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d320926a.css",
-    "static/js/main.47d8fd3d.js"
+    "static/js/main.923427a1.js"
   ]
 }
