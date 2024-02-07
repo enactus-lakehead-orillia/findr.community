@@ -44,6 +44,10 @@ function App() {
             and we will never use your data for any purpose other than to
             provide the services offered by Findr.
           </p>
+          <p>
+            If you would like us to delete your data, please{" "}
+            <a href="mailto:admin@findr.community">contact us</a>.
+          </p>
         </section>
         <footer>
           <hr />
