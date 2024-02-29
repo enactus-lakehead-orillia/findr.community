@@ -7,7 +7,7 @@ function App() {
       <Header />
       <main>
         <h1>Findr - Find Local Communities</h1>
-        <section id="about-section">
+        <section id="about-section" class="about-section">
           <p>
             Findr is an app to connect people who enjoy the same topic to others
             in the same geographical area. Imagine finding fellow book lovers,
