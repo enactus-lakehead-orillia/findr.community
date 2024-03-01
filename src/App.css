@@ -35,7 +35,44 @@ main {
 }
 
 .about-section{
-  display: contents;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: stretch;
+	align-content: stretch;
+}
+
+.about-section div{
+  width: 650px;
+}
+
+.comingSoon-img{
+  width: 112px;
+  padding: 2px;
+}
+
+.contact-section-h2{
+  margin-bottom: 0px;
+}
+
+.privacy-section{
+  display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: stretch;
+	align-content: stretch;
+  height: auto;
+}
+
+.privacy-section div{
+  width: 650px;
+  height: auto;
+}
+
+.privacy-section-h2{
+  margin-bottom: 0px;
 }
 
 footer {
