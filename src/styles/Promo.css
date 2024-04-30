@@ -1,0 +1,121 @@
+.Home {
+  text-align: center;
+}
+
+.Home-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .Home-logo {
+    animation: Home-logo-spin infinite 20s linear;
+  }
+}
+
+.Home-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Home-link {
+  color: #61dafb;
+}
+
+main {
+  text-align: center;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.about-section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: stretch;
+  align-content: stretch;
+}
+
+.about-section div {
+  width: 650px;
+}
+
+.comingSoon-img {
+  width: 112px;
+  padding: 2px;
+}
+
+.contact-section-h2 {
+  margin-bottom: 0px;
+}
+
+.privacy-section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: stretch;
+  align-content: stretch;
+  height: auto;
+}
+
+.privacy-section div {
+  width: 650px;
+  height: auto;
+}
+
+.privacy-section-h2 {
+  margin-bottom: 0px;
+}
+
+footer {
+  color: #555555;
+
+  hr {
+    color: #fff;
+  }
+}
+
+@keyframes Home-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.site-header {
+  text-align: center;
+  display: block;
+  background-color: #DED9D4;
+  padding: 5px;
+}
+
+.navigation-menu ul {
+  list-style: none;
+  padding: 0;
+  display: inline-flex;
+  justify-content: center;
+}
+
+.navigation-menu li {
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.logo {
+  padding-top: 2px;
+}
+
+.logo img {
+  width: 100px;
+}
