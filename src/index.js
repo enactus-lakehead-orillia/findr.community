@@ -5,9 +5,11 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Promo from "./pages/Promo";
 import Home from "./pages/Home";
 import Community from './pages/Community';
+import Navigation from './layout/Navigation';
 
 export default function App() {
   return (<BrowserRouter>
+    <Navigation/>
     <Routes>
       {/* Add routes here */}
       <Route path="/" element={<Promo />} />
