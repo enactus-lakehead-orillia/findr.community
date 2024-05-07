@@ -12,6 +12,7 @@ const Navigation = () => {
                     <img src={logo} alt="Logo" style={styles.logo} />
                 </NavLink>
                 <SearchBar />
+                <p>Barrie, ON</p>
             </div>
             <div style={styles.links}>
                 <NavLink style={styles.link}>
