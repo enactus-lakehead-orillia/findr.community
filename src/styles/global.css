@@ -35,3 +35,33 @@ margin-bottom: 30px;
 .container{
   padding: 10px;
 }
+
+.card{
+  padding: 10px;
+  background-color: aquamarine;
+  
+}
+.list{
+  display: flex;
+  justify-content: space-around;
+}
+
+.topics{
+  display: flex;
+  align-items: center;
+}
+.cardImage{
+  height:100px;
+  width: 100px;
+}
+.space{
+  padding-right: 5px;
+  font-weight: 500;
+}
+li{
+  list-style: none;
+}
+
+.gray-background{
+  line-height: 5px;
+}
